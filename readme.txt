@@ -1,0 +1,2 @@
+EE492_MBUS_TCPIP_GUI is python file of Master program. 
+EE492_W5500_SELF_LIB_29May folder includes lates Arduino Slave code, which has exactly same name as the folder. Important Note! In order to compile the program the W5500 libraries should added to arduino. Also the original io library folder is added as'ioLibrary_Driver-master.zip' added. To learn the iolibrary, info program in the ZIP file can be used. 
